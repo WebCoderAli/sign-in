@@ -25,7 +25,7 @@ input {
   height: 100%;
   top: 0;
   left: 0;
-  background-image: url(/sign-in/logo/home-slide-1.jpg);
+  background-image: url(./home-slide-1.jpg);
 }
 
 .sign-in-up-form {
@@ -54,7 +54,7 @@ img {
   width: 150px;
   position: relative;
   left: -50%;
-  top: -70px;
+  top: -50px;
 }
 
 .title {
